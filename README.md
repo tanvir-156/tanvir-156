@@ -7,20 +7,20 @@ I’m passionate about Competitive Programming and solving real‑world problems
 ### 🌐 Competitive Profiles
 
 <p align="left">
-  <a href="https://codeforces.com/profile/iamtanvir2003" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Codeforces_logo.svg" alt="Codeforces" width="32" />
+  <a href="https://codeforces.com/profile/iamtanvir2003" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/codeforces.png" alt="Codeforces" width="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://www.codechef.com/users/tanvir_156" target="_blank">
-    <img src="https://www.codechef.com/files/cc-logo.svg" alt="CodeChef" width="32" />
+  <a href="https://www.codechef.com/users/tanvir_156" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" width="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/iamtanvir2003" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/HackerRank_logo.svg" alt="HackerRank" width="32" />
+  <a href="https://www.hackerrank.com/profile/iamtanvir2003" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/hackerrank.png" alt="HackerRank" width="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://vjudge.net/user/tanvir_156" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/VJudge_logo.svg" alt="VJudge" width="32" />
+  <a href="https://vjudge.net/user/tanvir_156" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="VJudge" width="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://atcoder.jp/users/tanvir_156" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/AtCoder_logo.svg" alt="AtCoder" width="32" />
+  <a href="https://atcoder.jp/users/tanvir_156" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/source-code.png" alt="AtCoder" width="40" style="margin-right: 10px;"/>
   </a>
 </p>
 
@@ -29,13 +29,13 @@ I’m passionate about Competitive Programming and solving real‑world problems
 ### 📱 Social & Contact
 
 <p align="left">
-  <a href="https://www.instagram.com/_tanvir.17_" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="32" />
+  <a href="https://www.instagram.com/_tanvir.17_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/instagram-new.png" alt="Instagram" width="40" style="margin-right: 15px;"/>
   </a>
-  <a href="mailto:iamtanvir2003@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="32" />
+  <a href="mailto:iamtanvir2003@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" alt="Email" width="40" style="margin-right: 15px;"/>
   </a>
-  <a href="https://www.facebook.com/md.tanvirhasanchowdhury2003" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/F_icon.svg" alt="Facebook" width="32" />
+  <a href="https://www.facebook.com/md.tanvirhasanchowdhury2003" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png" alt="Facebook" width="40" style="margin-right: 15px;"/>
   </a>
 </p>
