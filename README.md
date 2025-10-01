@@ -10,8 +10,6 @@ I’m passionate about Competitive Programming and solving real-world problems u
 [![VJudge](https://img.shields.io/badge/VJudge-tanvir_156-0b7285?style=flat&logo=v&logoColor=white)](https://vjudge.net/user/tanvir_156)
 [![AtCoder](https://img.shields.io/badge/AtCoder-tanvir_156-00A6B7?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/tanvir_156)
 
-<br>
-
 ### Social & Contact:
 [![Instagram](https://img.shields.io/badge/Instagram-_tanvir.17_-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_tanvir.17_)
 [![Email](https://img.shields.io/badge/Email-iamtanvir2003@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iamtanvir2003@gmail.com)
