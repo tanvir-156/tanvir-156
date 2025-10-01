@@ -1,8 +1,18 @@
-Hi, I'm Tanvir 👋
-I’m passionate about Competitive Programming and solving real‑world problems using algorithms and data structures.
+# Hi, I'm Tanvir 👋 
+I’m passionate about Competitive Programming and solving real-world problems using algorithms and data structures.
 
-<br> <br>
-<h1 align="center">COMPETITIVE PROFILES</h1>
-<p align="center"> <a href="https://codeforces.com/profile/iamtanvir2003" target="_blank" rel="noopener noreferrer"> <img src="https://codeforces.org/s/85710/images/codeforces-sponsored-by-ton.png" alt="Codeforces" width="55" height="55" style="margin-right: 500px;"/> </a> <a href="https://www.codechef.com/users/tanvir_156" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="55" height="55" style="margin-right: 500px;"/> </a> <a href="https://www.hackerrank.com/profile/iamtanvir2003" target="_blank" rel="noopener noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="HackerRank" width="55" height="55" style="margin-right: 500px;"/> </a> <a href="https://vjudge.net/user/tanvir_156" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/balance-scale.png" alt="VJudge" width="55" height="55" style="margin-right: 500px;"/> </a> <a href="https://atcoder.jp/users/tanvir_156" target="_blank" rel="noopener noreferrer"> <img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" width="55" height="55"/> </a> </p><br> <br> <br> <br>
-<h1 align="center">SOCIAL & CONTACT</h1>
-<p align="center"> <a href="https://www.instagram.com/_tanvir.17_" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="55" height="55" style="margin-right: 500px;"/> </a> <a href="mailto:iamtanvir2003@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="55" height="55" style="margin-right: 500px;"/> </a> <a href="https://www.facebook.com/md.tanvirhasanchowdhury2003" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="55" height="55"/> </a> </p>
+---
+
+### Competitive Programming Profiles:
+[![Codeforces](https://img.shields.io/badge/Codeforces-iamtanvir2003-2ea44f?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/iamtanvir2003)
+[![CodeChef](https://img.shields.io/badge/CodeChef-tanvir_156-ff7b00?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/tanvir_156)
+[![HackerRank](https://img.shields.io/badge/HackerRank-iamtanvir2003-2ea44f?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/iamtanvir2003)
+[![VJudge](https://img.shields.io/badge/VJudge-tanvir_156-0b7285?style=flat&logo=github&logoColor=white)](https://vjudge.net/user/tanvir_156)
+[![AtCoder](https://img.shields.io/badge/AtCoder-tanvir_156-00A6B7?style=flat&logo=github&logoColor=white)](https://atcoder.jp/users/tanvir_156)
+
+<br> <br> <br> <br> <br>
+
+### Social & Contact:
+[![Instagram](https://img.shields.io/badge/Instagram-_tanvir.17_-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_tanvir.17_)
+[![Email](https://img.shields.io/badge/Email-iamtanvir2003@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iamtanvir2003@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-MD.Tanvir-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/md.tanvirhasanchowdhury2003)
