@@ -4,7 +4,7 @@ I’m passionate about Competitive Programming and solving real-world problems u
 
 ---
 
-### 🧠 Competitive Programming Profiles
+### Competitive Programming Profiles:
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-iamtanvir2003-2ea44f?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/iamtanvir2003)
 [![CodeChef](https://img.shields.io/badge/CodeChef-tanvir_156-ff7b00?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/tanvir_156)
