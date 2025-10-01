@@ -4,11 +4,38 @@ I’m passionate about Competitive Programming and solving real-world problems u
 
 ---
 
-### Competitive Programming Profiles:
+### 🌐 Competitive Programming Profiles:
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-iamtanvir2003-2ea44f?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/iamtanvir2003)
-[![CodeChef](https://img.shields.io/badge/CodeChef-tanvir_156-ff7b00?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/tanvir_156)
-[![HackerRank](https://img.shields.io/badge/HackerRank-iamtanvir2003-2ea44f?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/iamtanvir2003)
-[![VJudge](https://img.shields.io/badge/VJudge-tanvir_156-0b7285?style=flat&logo=github&logoColor=white)](https://vjudge.net/user/tanvir_156)
-[![AtCoder](https://img.shields.io/badge/AtCoder-tanvir_156-00A6B7?style=flat&logo=github&logoColor=white)](https://atcoder.jp/users/tanvir_156)
+<p align="left">
+  <a href="https://codeforces.com/profile/iamtanvir2003" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" alt="Codeforces" width="36" />
+  </a>
+  <a href="https://www.codechef.com/users/tanvir_156" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/codechef.png" alt="CodeChef" width="36"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/iamtanvir2003" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="36"/>
+  </a>
+  <a href="https://vjudge.net/user/tanvir_156" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/github.png" alt="VJudge" width="36"/>
+  </a>
+  <a href="https://atcoder.jp/users/tanvir_156" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/source-code.png" alt="AtCoder" width="36"/>
+  </a>
+</p>
 
+---
+
+### 📱 Social Media
+
+<p align="left">
+  <a href="https://www.instagram.com/_tanvir.17_" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/60/instagram-new.png" alt="Instagram" width="36"/>
+  </a>
+  <a href="mailto:iamtanvir2003@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/email-open.png" alt="Email" width="36"/>
+  </a>
+  <a href="https://www.facebook.com/md.tanvirhasanchowdhury2003" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/facebook-new.png" alt="Facebook" width="36"/>
+  </a>
+</p>
