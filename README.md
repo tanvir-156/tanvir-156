@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/tanvir-156">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+Developer+%26+Problem+Solver;Solving+real-world+problems+with+Code;Always+learning,+always+coding.;Let's+connect+and+build+together+%F0%9F%9A%80&font=Fira%20Code&center=true&width=650&height=45&color=2ea44f&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer+%26+Problem+Solver;Solving+real-world+problems+with+Code;Always+learning,+always+coding.;Let's+connect+and+build+together+%F0%9F%9A%80&font=Fira%20Code&center=true&width=650&height=45&color=2ea44f&vCenter=true&size=22" />
 </a>
 
 </div>
