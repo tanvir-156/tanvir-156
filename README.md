@@ -1,16 +1,140 @@
-# Hi, I'm Tanvir 👋 
-I’m passionate about Competitive Programming and solving real-world problems using algorithms and data structures.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:0b7285&height=200&section=header&text=Hi%20There,%20I'm%20Tanvir%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20|%20Problem%20Solver%20|%20DSA%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+
+<br/>
+
+<a href="https://github.com/iamtanvir2003">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+about+Competitive+Programming;Solving+real-world+problems+with+Algorithms;Always+learning,+always+coding.;Let's+connect+and+build+together+%F0%9F%9A%80&font=Fira%20Code&center=true&width=650&height=45&color=2ea44f&vCenter=true&size=22" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=iamtanvir2003&style=for-the-badge&color=2ea44f&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-### Competitive Programming Profiles:
-[![Codeforces](https://img.shields.io/badge/Codeforces-iamtanvir2003-2ea44f?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/iamtanvir2003)
-[![CodeChef](https://img.shields.io/badge/CodeChef-tanvir_156-ff7b00?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/tanvir_156)
-[![HackerRank](https://img.shields.io/badge/HackerRank-iamtanvir2003-2ea44f?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/iamtanvir2003)
-[![VJudge](https://img.shields.io/badge/VJudge-tanvir_156-0b7285?style=flat&logo=v&logoColor=white)](https://vjudge.net/user/tanvir_156)
-[![AtCoder](https://img.shields.io/badge/AtCoder-tanvir_156-00A6B7?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/tanvir_156)
+## 🏆 Competitive Programming Profiles
 
-### Social & Contact:
-[![Instagram](https://img.shields.io/badge/Instagram-_tanvir.17_-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_tanvir.17_)
-[![Email](https://img.shields.io/badge/Email-iamtanvir2003@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iamtanvir2003@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-MD.Tanvir-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/md.tanvirhasanchowdhury2003)
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-iamtanvir2003-2ea44f?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/iamtanvir2003)
+[![CodeChef](https://img.shields.io/badge/CodeChef-tanvir__156-ff7b00?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/tanvir_156)
+[![HackerRank](https://img.shields.io/badge/HackerRank-iamtanvir2003-2ea44f?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/iamtanvir2003)
+[![VJudge](https://img.shields.io/badge/VJudge-tanvir__156-0b7285?style=for-the-badge&logo=v&logoColor=white)](https://vjudge.net/user/tanvir_156)
+[![AtCoder](https://img.shields.io/badge/AtCoder-tanvir__156-00A6B7?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/tanvir_156)
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+### 📊 Codeforces Stats
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=iamtanvir2003&theme=dark" alt="Codeforces stats" width="450"/>
+
+</div>
+
+> 💡 *If the card above doesn't load, GitHub caches some third-party images — refreshing the page usually fixes it.*
+
+---
+
+## 🛠️ Tech & Tools
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📬 Social & Contact
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-_tanvir.17__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_tanvir.17_)
+[![Email](https://img.shields.io/badge/Email-iamtanvir2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamtanvir2003@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-MD.Tanvir-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.tanvirhasanchowdhury2003)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!--
+  Contribution snake — enable this once by adding the "Platane/snk" GitHub Action
+  to a repo named exactly "iamtanvir2003" (a special repo GitHub uses for your
+  profile README). See the setup note at the end of this file.
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamtanvir2003/iamtanvir2003/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamtanvir2003/iamtanvir2003/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/iamtanvir2003/iamtanvir2003/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b7285,100:2ea44f&height=120&section=footer" width="100%"/>
+
+</div>
+
+<!--
+=====================================================================
+ SETUP NOTES (delete this comment block once done — GitHub hides it)
+=====================================================================
+1. Profile Views counter, Typing SVG, Codeforces stats card and the
+   capsule-render banners above work immediately — no setup needed.
+
+2. The contribution "snake" animation at the bottom needs a one-time
+   setup because it's generated by a GitHub Action running in YOUR
+   own profile repo (a repo named exactly your username):
+     a. Go to github.com/iamtanvir2003/iamtanvir2003 (create it if it
+        doesn't exist — Settings > New repo > name it "iamtanvir2003").
+     b. Add a file at .github/workflows/snake.yml with:
+
+        name: generate animation
+        on:
+          schedule:
+            - cron: "0 */12 * * *"
+          workflow_dispatch:
+          push:
+            branches: [ main ]
+        permissions:
+          contents: write
+        jobs:
+          generate:
+            runs-on: ubuntu-latest
+            steps:
+              - uses: Platane/snk/svg-only@v3
+                with:
+                  github_user_name: iamtanvir2003
+                  outputs: |
+                    dist/github-contribution-grid-snake.svg
+                    dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+              - uses: crazy-max/ghaction-github-pages@v4
+                with:
+                  target_branch: output
+                  build_dir: dist
+                env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+     c. Run the workflow once manually (Actions tab > Run workflow).
+     d. The image in this README will then render automatically.
+
+   If you'd rather skip this, just delete the <picture> block above —
+   everything else in this README works without it.
+===================================================================== 
+-->
