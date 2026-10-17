@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b7285,50:1b9a6f,100:2ea44f&height=240&section=header&text=Hey%2C%20I'm%20Tanvir&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=20" width="100%" alt="Hey, I'm Tanvir" />
 
 <a href="https://github.com/tanvir-156">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=650&height=40&lines=Developer+%26+Problem+Solver;Building+with+Flutter%2C+PHP+%26+SQL;From+C%2B%2B+algorithms+to+real-world+apps;Always+learning%2C+always+coding." alt="Developer and Problem Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=650&height=40&lines=Developer+%26+Problem+Solver;Always+learning%2C+always+coding." alt="Developer and Problem Solver" />
 </a>
 
 </div>
