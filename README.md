@@ -82,11 +82,7 @@ const tanvir = {
 
 <br/>
 
-<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-156&bg_color=0d1117&color=2ea44f&line=0b7285&point=ffffff&area=true&area_color=2ea44f&hide_border=true" width="100%" />
-
-<br/>
-
-<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=tanvir-156&theme=darkhub&row=1&column=7&margin-w=10" />
+<img alt="Contribution Calendar" src="https://ghchart.rshah.org/2ea44f/tanvir-156" width="100%" />
 
 </div>
 
