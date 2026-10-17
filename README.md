@@ -1,17 +1,10 @@
-<div align="center">
+<h1 align="center">Tanvir</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b7285,100:2ea44f&height=150&section=header&text=Tanvir&fontSize=50&fontColor=ffffff&fontAlignY=40" width="100%" alt="Tanvir" />
-
-<a href="https://github.com/tanvir-156">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=650&height=40&lines=Developer+%26+Problem+Solver;Building+with+Flutter%2C+PHP+%26+SQL;From+C%2B%2B+algorithms+to+real-world+apps;Always+learning%2C+always+coding." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=tanvir-156&style=flat-square&color=2ea44f&label=PROFILE+VIEWS" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/tanvir-156?label=FOLLOWERS&style=flat-square&logo=github&logoColor=white&color=0b7285" alt="Followers" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/tanvir-156">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=650&height=40&lines=Developer+%26+Problem+Solver;Building+with+Flutter%2C+PHP+%26+SQL;From+C%2B%2B+algorithms+to+real-world+apps;Always+learning%2C+always+coding." alt="Developer and Problem Solver" />
+  </a>
+</p>
 
 ###
 
@@ -80,5 +73,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvir-156/tanvir-156/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/tanvir-156/tanvir-156/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b7285,100:2ea44f&height=100&section=footer" width="100%" alt="" />
