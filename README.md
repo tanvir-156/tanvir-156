@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tanvir-156&style=for-the-badge&color=2ea44f&label=PROFILE+VIEWS)
+![Profile Views](https://hits.sh/github.com/tanvir-156.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=2ea44f&labelColor=1b1f24)
 ![Followers](https://img.shields.io/github/followers/tanvir-156?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=0b7285)
 </div>
 
@@ -82,11 +82,7 @@ const tanvir = {
 
 <br/>
 
-<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-156&bg_color=0d1117&color=2ea44f&line=0b7285&point=ffffff&area=true&area_color=2ea44f&hide_border=true" width="100%" />
-
-<br/>
-
-<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=tanvir-156&theme=darkhub&row=1&column=7&margin-w=10" />
+<img alt="Contribution Calendar" src="https://ghchart.rshah.org/2ea44f/tanvir-156" width="100%" />
 
 </div>
 
