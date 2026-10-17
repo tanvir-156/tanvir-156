@@ -82,8 +82,6 @@ const tanvir = {
 
 <br/>
 
-<img alt="Contribution Calendar" src="https://ghchart.rshah.org/2ea44f/tanvir-156" width="100%" />
-
 </div>
 
 ---
